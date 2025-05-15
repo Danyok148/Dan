@@ -12,5 +12,6 @@ int main() {
 
  printf("El: %i\n", array2d[ROW - 1][COL - 1]);
 
+
  return 0;
 }
